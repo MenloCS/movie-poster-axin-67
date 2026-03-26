@@ -30,31 +30,31 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+- **Movie Title:**  TED
+- **Why I chose this movie:**  Its funny and follows an interesting story line.
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:**  Excitement, wonder, joy
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:**  Teddy bear and a park
+- **Why this element:**  Because he is the most interesting and is also the main character centered around the story.
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
 - **Avoid:**  
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):**  Green, brown
+- **Accent color(s):**  Green, gray, yellow
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  warm and bright
 
 **Composition:**  
 - [ ] Close-up (face/detail)  
 - [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
+- [X] Medium shot (full figure)  
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
