@@ -95,18 +95,23 @@ Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
 - **My prompt:**  
-
+now make the camera shot farther away, and make the title yellow in a bold more sharp font. now other words other than thjat, and keep everything else.
 - **What worked:**  
+The title and character and shot looks good.
 - **What didn't work:**  
+None
 - **What I'll change for next attempt:**  
+Maybe add a quote?
 
 **Attempt 4:**  
 - **My prompt:**  
-
+Add a quote from TED
 - **What worked:**  
+A quote came
 - **What didn't work:**  
-
+none, looks fine
 **Final AI Image Selected:** (Which attempt? Why?)  
+Probably the 3rd version becasue it looks the smoothest and cleanest.
 
 ---
 
