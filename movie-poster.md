@@ -69,18 +69,23 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 
 **Attempt 1:**  
 - **My prompt:**  
-
+I want a park scene where ted is walking down a park path not facing the cam and we only see his back. Also make sure that we capture the rips and tears when he was ripped in half in the story horizontally in his waist area, but he is stapled back together.
 - **What worked:**  
+A teddy bear in the front
 - **What didn't work:**  
+The main details on him
 - **What I'll change for next attempt:**  
+Make the scars more accurate and fix the title
 
 **Attempt 2:**  
 - **My prompt:**  
-
+There should only be 1 large tear, no clothes. the rip is at his waist fully but he is stapled back together
 - **What worked:**  
+The teddy bear looks more accurate
 - **What didn't work:**  
+The title was weird and didn't fit the vibe.
 - **What I'll change for next attempt:**  
-
+fix the title to something more fitting.
 ---
 
 ## Step 3: AI Generation – Continued Iteration
